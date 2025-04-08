@@ -47,8 +47,8 @@
 ## 🛠️ 安装与使用
 1.  **克隆仓库** (如果您将其托管在 GitHub 等平台):
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/faithererer/myTools.git
+    cd myTools-master
     ```
 2.  **安装依赖**:
     ```bash
