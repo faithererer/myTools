@@ -51,11 +51,11 @@
     pip install -r requirements.txt
     ```
 3.  **运行脚本**: (假设主脚本名为 `main.py` 或根据您的实际情况修改)
+    进入对应目录 运行:
     ```bash
-    python main.py
+    python main.py 
     ```
-    -   对于 **换行转逗号分割**: 运行对应脚本即可（可能需要指定或自动运行）。
-    -   对于 **音频截取**: 运行主脚本，根据命令行菜单提示操作。
+    或者双击运行`start.bat`
 ---
 ## 🤝 贡献
 欢迎提出 Issue 或 Pull Request！
