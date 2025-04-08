@@ -50,7 +50,7 @@
     ```bash
     pip install -r requirements.txt
     ```
-3.  **运行脚本**: (假设主脚本名为 `main.py` 或根据您的实际情况修改)
+3.  **运行脚本**:
     进入对应目录 运行:
     ```bash
     python main.py 
